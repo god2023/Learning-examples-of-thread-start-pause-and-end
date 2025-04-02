@@ -1,3 +1,5 @@
+This is a learning example of thread start, pause, and end to help friends learn and master:
+
 Thread is a fundamental unit in computer program execution, responsible for executing a series of instructions within the program.
  The following are Chinese explanations for thread start, pause, and end:
 Thread starts
@@ -26,3 +28,5 @@ The lifecycle management of threads requires careful handling to avoid issues su
 Different programming languages and operating systems may have different implementations and APIs for thread management, but the basic concepts are the same.
 In multi-threaded programming, proper synchronization and communication are key to ensuring program correctness.
 By properly managing the start, pause, and end of threads, the capabilities of multi-core processors can be effectively utilized to improve program concurrency and responsiveness.
+
+If you don't understand, you can communicate with each other:Kongfanru@hotmail.com
