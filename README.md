@@ -30,3 +30,4 @@ In multi-threaded programming, proper synchronization and communication are key 
 By properly managing the start, pause, and end of threads, the capabilities of multi-core processors can be effectively utilized to improve program concurrency and responsiveness.
 
 If you don't understand, you can communicate with each other:Kongfanru@hotmail.com
+(Project maintained by Fanru Kong.)
